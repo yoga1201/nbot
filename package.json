@@ -1,0 +1,13 @@
+{
+  "name": "nbot",
+  "description": "Whatsaap bot for nicdev's group",
+  "license": "MIT",
+  "author": "Yoga",
+  "repository": "https://github.com/yoga1201/nicbot/",
+  "main": "./src/main.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "https://github.com/Julzk/whatsapp-web.js/tarball/jkr_hotfix_8"
+  }
+}
